@@ -1,4 +1,4 @@
-<h1 align="center">🎧 Emotion-Based Music Recommender</h1>
+<h1 align="center">🎧 Emotion Based Music Recommender</h1>
 
 <p align="center">
   A real-time web app that detects your facial emotion via webcam and recommends songs that match your mood.<br>
@@ -45,10 +45,10 @@ emotion-music-recommender/
     <code>git clone https://github.com/shanmukhi-developer/Emotion-Based-Music-Recommender.git</code>
   </li>
   <li>Navigate into the directory:<br>
-    <code>cd emotion-music-recommender</code>
+    <code>cd emotion-based-music-recommender</code>
   </li>
   <li>Install dependencies:<br>
-    <code>pip install -r requirements.txt</code>
+    <code>pip install -r tempCodeRunnerFile.py</code>
   </li>
   <li>Run the app:<br>
     <code>streamlit run music.py</code>
@@ -90,17 +90,11 @@ emotion-music-recommender/
 <p>
   <strong>Nadipudi Shanmukhi Satya</strong><br>
   AI/ML Enthusiast | Developer<br>
-  📬 [Your Email] | 💻 <a href="https://github.com/yourusername">GitHub</a>
+  📬 shanmukhinadipudi@gmail.com | 💻 <a href="https://github.com/shanmukhi-developer">GitHub</a>
 </p>
 
 <h2>📸 Preview</h2>
 <img src="emotion.jpg" width="600"/>
-
-<h2>⚠️ Disclaimer</h2>
-<p>
-  This project is intended for educational purposes. Emotion accuracy may vary depending on lighting, expression, and model training quality.
-</p>
-
 <hr>
 
 <p align="center">
