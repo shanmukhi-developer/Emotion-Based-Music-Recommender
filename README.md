@@ -28,14 +28,14 @@
 <h2>📂 Project Structure</h2>
 
 <pre>
-emotion-music-recommender/
-├── model.h5              # Trained deep learning model
-├── labels.npy            # Labels used in prediction
-├── emotion.jpg           # Project thumbnail
-├── emotion.npy           # Stores latest predicted emotion
-├── music.py              # Main web app script
-├── requirements.txt      # Python package list
-└── README.md             # Project documentation
+emotion-based-music-recommender/
+├── model.h5               # Trained deep learning model
+├── labels.npy             # Labels used in prediction
+├── emotion.jpg            # Project thumbnail
+├── emotion.npy            # Stores latest predicted emotion
+├── music.py               # Main web app script
+├── tempCodeRunnerFile.py  #Python packages List
+└── README.md              # Project documentation
 </pre>
 
 <h2>📦 Installation</h2>
@@ -82,7 +82,6 @@ emotion-music-recommender/
 <ul>
   <li>Train with more diverse datasets to improve accuracy</li>
   <li>Add voice-based interaction for selection</li>
-  <li>Support offline music playback</li>
   <li>Deploy as a mobile app</li>
 </ul>
 
