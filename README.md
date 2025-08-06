@@ -42,7 +42,7 @@ emotion-music-recommender/
 
 <ol>
   <li>Clone the repository:<br>
-    <code>git clone https://github.com/yourusername/emotion-music-recommender.git</code>
+    <code>git clone https://github.com/shanmukhi-developer/Emotion-Based-Music-Recommender.git</code>
   </li>
   <li>Navigate into the directory:<br>
     <code>cd emotion-music-recommender</code>
